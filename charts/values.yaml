@@ -1,0 +1,9 @@
+image:
+  repository: yourusername/k8s-microservices-app
+  tag: latest
+service:
+  port: 8080
+env:
+  var: production
+ingress:
+  host: example.com
