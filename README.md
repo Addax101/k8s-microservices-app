@@ -32,4 +32,4 @@ If you want to use Skaffold for continuous development, you can use the followin
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-GPS
+GPS (Check out her awesome Youtube channel)
