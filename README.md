@@ -2,7 +2,7 @@
 This repository contains the code for a cloud-native application developed using a *microservices architecture* and container orchestration with Kubernetes.
 
 ## Architural Diagram 
-```Mermaid.js
+```mermaid
 flowchart LR
 
 subgraph "Kubernetes Cluster"
