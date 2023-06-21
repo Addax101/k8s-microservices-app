@@ -43,7 +43,6 @@ ServiceA2 --> Ingress
 ServiceB2 --> Ingress
 ServiceC2 --> Ingress
 
-```
 
 
 
