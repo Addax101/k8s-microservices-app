@@ -1,6 +1,9 @@
 # k8s-microservices-app
 This repository contains the code for a cloud-native application developed using a *microservices architecture* and container orchestration with Kubernetes.
 
+## Architural Diagram 
+
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
