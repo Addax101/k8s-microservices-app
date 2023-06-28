@@ -1,5 +1,5 @@
 # k8s-microservices-app
-This repository contains the code for a cloud-native application developed using a *microservices architecture* and container orchestration with Kubernetes.
+This repository contains the code for a *cloud-native* application developed using a *microservices architecture* and container orchestration with Kubernetes.
 
 ## Architural Diagram 
 ```mermaid
