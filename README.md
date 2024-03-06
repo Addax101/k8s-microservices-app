@@ -1,7 +1,7 @@
 # k8s-microservices-app
 This repository contains the code for a *cloud-native* application developed using a *microservices architecture* and container orchestration with Kubernetes.
 
-## Architural Diagram 
+## Architural Diagram ---Looping
 ```mermaid
 graph LR
   A[Kubernetes Cluster] -- Ingress --> B(Service1: Go)
